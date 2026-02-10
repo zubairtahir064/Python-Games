@@ -14,7 +14,7 @@ pygame.init()
 # Window size
 WIDTH, HEIGHT = 800, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Professional Snake Game")
+pygame.display.set_caption("Snake Game")
 
 clock = pygame.time.Clock()
 
